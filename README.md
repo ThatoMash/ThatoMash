@@ -1,4 +1,4 @@
-#  Hi there, I'm Thato Precious
+#  Hi there, I'm Thato Mashimbi
 
 ## Introduction  about Me
 
