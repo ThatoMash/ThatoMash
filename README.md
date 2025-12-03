@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Thato Precious
+#  Hi there, I'm Thato Precious
 
 ## Introduction  about Me
 
@@ -7,7 +7,7 @@
 **Career Goals:** I aim to become a Cloud Practitioner and progress towards a Cloud or DevOps Engineer role.
 
 
-## 🌩️ AWS re/Start Journey
+##  AWS re/Start Journey
 
 **Why I joined the program:** I joined because I wanted to build a solid foundation in cloud computing and AWS services, gain hands-on experience through projects and labs, and start a career in cloud computing and IT.
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📘 Things I Completed During the Program
+##  Things I Completed During the Program
 
 ### Certifications & Badges
 
