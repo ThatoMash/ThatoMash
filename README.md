@@ -3,8 +3,8 @@
 ## Introduction  about Me
 
 **Name:** Thato Precious
-**Background:** I am an aspiring cloud and front-end developer currently building hands-on skills in AWS and programming.
-**Career Goals:** I aim to become a Cloud Practitioner and progress towards a Cloud or DevOps Engineer role.
+**Background:** I am an aspiring cloud  currently building hands-on skills in AWS and programming.
+**Career Goals:** I aim to become a Cloud Practitioner and progress towards a Cloud  role.
 
 
 ##  AWS re/Start Journey
@@ -19,9 +19,38 @@
 * I developed knowledge of networking concepts and database management
 * I built real-world projects and completed hands-on labs
 
----
 
-## 🛠️ Skills and Technologies
+ ##  Things I Completed During the Program
+
+### Certifications & Badges
+
+* Security Simulearn
+* Networking Simulearn
+* Storage Simulearn
+* Database Simulearn
+<img width="262" height="300" alt="image" src="https://github.com/user-attachments/assets/60af26af-2dd9-4438-9f48-bb849b8107b5" />
+
+
+
+  
+
+### Projects Completed
+
+* Static Website (Deadline: 28 November)
+* 3D Architecture (Deadline: 5 December)
+* AWS Lex Bot (TBD)
+
+### Labs Completed
+
+I completed labs in Compute, Storage, Networking, and Databases. Each lab included:
+
+* Step-by-step explanation in my own words
+* Screenshots of the process
+* Reasoning behind each step 
+
+
+
+##  Skills and Technologies
 
 ### AWS Services
 
@@ -39,32 +68,6 @@
 * Networking
 * Databases
 
----
-
-##  Things I Completed During the Program
-
-### Certifications & Badges
-
-* Security Simulearn
-* Networking Simulearn
-* Storage Simulearn
-* Database Simulearn
-
-### Projects Completed
-
-* Static Website (Deadline: 28 November)
-* 3D Architecture (Deadline: 5 December)
-* AWS Lex Bot (TBD)
-
-### Labs Completed
-
-I completed labs in Compute, Storage, Networking, and Databases. Each lab included:
-
-* Step-by-step explanation in my own words
-* Screenshots of the process
-* Reasoning behind each step
-
----
 
 ## ☁️ AWS Core Services Explained
 
