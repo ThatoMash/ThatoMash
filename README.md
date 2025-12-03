@@ -1,6 +1,6 @@
 #  Hi there, I'm Thato Mashimbi
 
-## Introduction  about Me
+## Introduction  about me
 
 **Name:** Thato Precious
 **Background:** I am an aspiring cloud  currently building hands-on skills in AWS and programming.
