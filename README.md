@@ -28,7 +28,19 @@
 * Networking Simulearn
 * Storage Simulearn
 * Database Simulearn
+
+AWS Cloud Practitioner Completion Badge
+
 <img width="262" height="300" alt="image" src="https://github.com/user-attachments/assets/60af26af-2dd9-4438-9f48-bb849b8107b5" />
+
+### Simulearn Certification
+
+<img width="494" height="392" alt="image" src="https://github.com/user-attachments/assets/caa7b4e9-61d4-4524-87b3-7b46475ab3b8" /> <img width="495" height="389" alt="image" src="https://github.com/user-attachments/assets/9443c5d3-7285-49fb-aaf8-682a059ef228" />
+
+
+
+
+
 
 
 
