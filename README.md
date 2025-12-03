@@ -1,12 +1,11 @@
 # 👋 Hi there, I'm Thato Precious
 
-## Introduction — About Me
+## Introduction  about Me
 
 **Name:** Thato Precious
 **Background:** I am an aspiring cloud and front-end developer currently building hands-on skills in AWS and programming.
 **Career Goals:** I aim to become a Cloud Practitioner and progress towards a Cloud or DevOps Engineer role.
 
----
 
 ## 🌩️ AWS re/Start Journey
 
