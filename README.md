@@ -35,16 +35,10 @@ AWS Cloud Practitioner Completion Badge
 
 ### Simulearn Certification
 
-<img width="494" height="392" alt="image" src="https://github.com/user-attachments/assets/caa7b4e9-61d4-4524-87b3-7b46475ab3b8" /> <img width="495" height="389" alt="image" src="https://github.com/user-attachments/assets/9443c5d3-7285-49fb-aaf8-682a059ef228" />
+---
+<img width="348" height="272" alt="image" src="https://github.com/user-attachments/assets/0c5776e6-48a6-48a0-9c35-ad9fed4bc8c0" /> <img width="352" height="274" alt="image" src="https://github.com/user-attachments/assets/7b271642-08bb-463e-bb99-498ef9472023" /> <img width="350" height="271" alt="image" src="https://github.com/user-attachments/assets/2103f69b-d2bc-4d51-9ce5-f76227fb7901" /> <img width="350" height="273" alt="image" src="https://github.com/user-attachments/assets/621ba238-478c-4436-a885-7c2b2b926bb1" />
 
-
-
-
-
-
-
-
-  
+---
 
 ### Projects Completed
 
