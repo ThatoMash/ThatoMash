@@ -138,5 +138,5 @@ I completed a minimum of two labs per section (Compute, Storage, Networking, Dat
 
 * **Email:** [Thatomashimbi@gmail.com](mailto:Thatomashimbi@gmail.com)
 * **Phone:** 079 797 3774
-* **LinkedIn:** [https://www.linkedin.com/in/thato-p-mashimbi/](https://www.linkedin.com/in/thato-p-mashimbi/)
+* **LinkedIn:** [https://www.linkedin.com/in/thato-p-mashimbi/](https://www.linkedin.com/in/thatomash/)
 * **GitHub:** I'm here!
