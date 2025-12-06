@@ -77,31 +77,31 @@ I completed labs in Compute, Storage, Networking, and Databases. Each lab includ
 
 ## ☁️ AWS Core Services Explained
 
-### Compute
+### [Compute](AWS%20Services/Module%202:%20AWS%20Compute%20Services)
 
 * Compute is the processing power for applications.
 * Examples I worked with: EC2 (virtual servers), Lambda (serverless functions)
 * It is important because it determines app performance and scalability
 
-### Networking
+### [Networking](AWS%20Services/Module%205:%20AWS%20Networking%20and%20Content%20Delivery%20services)
 
 * Networking connects AWS resources securely.
 * Examples I used: VPC, Route 53
 * It is important because it controls traffic flow and resource communication
 
-### Storage
+### [Storage](AWS%20Services/Module%203:%20AWS%20Storage%20Services)
 
 * Storage is where I keep data, files, and backups.
 * Examples I used: S3, EBS
 * Storage is important because it provides durable, scalable storage for applications
 
-### Databases
+### [Databases](AWS%20Services/Module%204:%20AWS%20Database%20and%20Analytics%20services)
 
 * Databases store structured application data.
 * Examples I worked with: RDS, DynamoDB
 * They are important because they ensure fast, reliable data access for apps
 
-### Security
+### [Security](AWS%20Services/Module%206:%20AWS%20Security%20services)
 
 * I used IAM to control access.
 * I learned about roles, policies, MFA, and basic encryption
