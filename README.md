@@ -1,142 +1,54 @@
-#  Hi there, I'm Thato Mashimbi
+# Hi there, I'm Thato Mashimbi ☁️
 
-## Introduction  about me
+### 🛡️ Certified AWS Cloud Practitioner | Solutions Architect in Training
 
-**Name:** Thato Precious
-**Background:** I am an aspiring cloud  currently building hands-on skills in AWS and programming.
-**Career Goals:** I aim to become a Cloud Practitioner and progress towards a Cloud  role.
+**Background:** I am a certified Cloud Professional with a solid foundation in AWS infrastructure, security, and automation. As a proud graduate of the **AWS re/Start program delivered by Praesignis**, I have transitioned from an aspiring learner to a certified specialist capable of managing core AWS services.
 
-
-##  AWS re/Start Journey
-
-**Why I joined the program:** I joined because I wanted to build a solid foundation in cloud computing and AWS services, gain hands-on experience through projects and labs, and start a career in cloud computing and IT.
-
-**Key lessons and experiences:**
-
-* I learned how AWS core services work (EC2, S3, RDS, Lambda, VPC, IAM)
-* I gained experience with Linux command line and basic administration
-* I learned Python fundamentals for automation
-* I developed knowledge of networking concepts and database management
-* I built real-world projects and completed hands-on labs
-
-
- ##  Things I Completed During the Program
-
-### Certifications & Badges
-
-* Security Simulearn
-* Networking Simulearn
-* Storage Simulearn
-* Database Simulearn
-
-AWS Cloud Practitioner Completion Badge
-
-<img width="262" height="300" alt="image" src="https://github.com/user-attachments/assets/60af26af-2dd9-4438-9f48-bb849b8107b5" />
-
-### Simulearn Certification
-
----
-<img width="348" height="272" alt="image" src="https://github.com/user-attachments/assets/0c5776e6-48a6-48a0-9c35-ad9fed4bc8c0" /> <img width="352" height="274" alt="image" src="https://github.com/user-attachments/assets/7b271642-08bb-463e-bb99-498ef9472023" /> <img width="350" height="271" alt="image" src="https://github.com/user-attachments/assets/2103f69b-d2bc-4d51-9ce5-f76227fb7901" /> <img width="350" height="273" alt="image" src="https://github.com/user-attachments/assets/621ba238-478c-4436-a885-7c2b2b926bb1" />
+**Career Goals:** I am currently advancing my skills through the **AWS Partner Certification Readiness (APCR)** program. My goal is to become a Solutions Architect who designs secure, cost-effective systems that align with the "Golden Thread" philosophy of business excellence and technical integrity.
 
 ---
 
-### Projects Completed
+## 🎓 Certifications & Badges
 
-* Static Website (Deadline: 28 November)
-* 3D Architecture (Deadline: 5 December)
-* AWS Lex Bot (TBD)
-
-### Labs Completed
-
-I completed labs in Compute, Storage, Networking, and Databases. Each lab included:
-
-* Step-by-step explanation in my own words
-* Screenshots of the process
-* Reasoning behind each step 
-
-
-
-##  Skills and Technologies
-
-### AWS Services
-
-* EC2
-* S3
-* RDS
-* Lambda
-* VPC
-* IAM
-
-### Other Skills
-
-* Linux
-* Python
-* Networking
-* Databases
-
-
-## ☁️ AWS Core Services Explained
-
-### Compute
-
-* Compute is the processing power for applications.
-* Examples I worked with: EC2 (virtual servers), Lambda (serverless functions)
-* It is important because it determines app performance and scalability
-
-### Networking
-
-* Networking connects AWS resources securely.
-* Examples I used: VPC, Route 53
-* It is important because it controls traffic flow and resource communication
-
-### Storage
-
-* Storage is where I keep data, files, and backups.
-* Examples I used: S3, EBS
-* Storage is important because it provides durable, scalable storage for applications
-
-### Databases
-
-* Databases store structured application data.
-* Examples I worked with: RDS, DynamoDB
-* They are important because they ensure fast, reliable data access for apps
-
-### Security
-
-* I used IAM to control access.
-* I learned about roles, policies, MFA, and basic encryption
-* Security is important because it protects resources and data
+| AWS Certified Cloud Practitioner | 
+| :---: | 
+| <img width="702" height="537" alt="image" src="https://github.com/user-attachments/assets/d154943b-359c-4111-a02a-50da6cdc7c54" />
+| **Status: Verified ✅** | 
 
 ---
 
-## Projects
+## 🚀 Technical Skills & AWS Core Services
 
-### Static Website
+### **Compute & Serverless**
+* **EC2:** Deploying and managing virtual servers.
+* **Lambda:** Building event-driven serverless functions.
+* **Concepts:** Scalability, Elasticity, and High Availability.
 
-* Deadline: 28 November
-* I included screenshots and step explanations
+### **Storage & Databases**
+* **S3:** Hosting static websites and managing object storage.
+* **RDS & DynamoDB:** Managing relational and NoSQL data structures.
+* **EBS:** Configuring block storage for persistent data.
 
-### 3D Architecture
-
-* Deadline: 5 December
-* I included architecture diagrams, AWS services explanations, and screenshots
-
-### AWS Lex Bot
-
-* TBD
-* I included intents, bot logic, and usage screenshots
-
----
-
-## Labs
-
-I completed a minimum of two labs per section (Compute, Storage, Networking, Databases) and documented each with clear explanations, screenshots, and reasoning for every step.
+### **Networking & Security**
+* **VPC:** Designing secure virtual networks (Subnets, Route Tables).
+* **IAM:** Implementing the **Principle of Least Privilege** through Roles and Policies.
+* **Shared Responsibility:** Understanding the security boundaries between AWS and the client.
 
 ---
 
-## Contact Information
+## 🛠️ Hands-on Projects
+* **Static Website Deployment:** Hosted a secure site via S3 with CloudFront integration.
+* **3D Architecture Design:** Created diagrams and implemented multi-tier cloud infrastructure.
+* **AWS Lex Bot:** Developed an AI-driven chatbot with custom intents and logic.
+
+---
+
+## 📫 Contact Information
 
 * **Email:** [Thatomashimbi@gmail.com](mailto:Thatomashimbi@gmail.com)
 * **Phone:** 079 797 3774
-* **LinkedIn:** [https://www.linkedin.com/in/thato-p-mashimbi/](https://www.linkedin.com/in/thatomash/)
-* **GitHub:** I'm here!
+* **LinkedIn:** [Thato P. Mashimbi](https://www.linkedin.com/in/thato-p-mashimbi/)
+* **GitHub:** [Check out my Repositories](https://github.com/ThatoMash)
+
+---
+*“I believe in the Golden Thread: where technology, people, and growth connect.”*
